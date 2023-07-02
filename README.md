@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ペンギン
 - 👀 I’m interested in Python, Android App Development and Networking. 
 - 🌱 I’m currently learning Kotlin. 
-- 💞️ I’m looking to collaborate on Linux projects based on shell. 
+- 💞️ I’m looking to collaborate on projects in Python. 
 - 📫 Reach me on shapedana@gmail.com
 
 <!---
