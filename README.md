@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ペンギン
-- 👀 I’m interested in doing experimental projects, utility softwares and linux based projects. Experienced in C++, Python, Linux and Networking.
+- 👀 I’m interested in doing experiments and coding projects. Experienced in C++, Python, Linux and Networking.
 - 🖥️ Familar in Qt C++ and PyQt
 - 🚀 RHCSA, CCST Cybersecurity, MTA 98-366 and AZ-900 Certified
 - 🌱 I’m currently learning C and C++. Looking forward to flutter. 
