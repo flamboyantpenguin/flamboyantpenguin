@@ -3,7 +3,7 @@
 - 🖥️ Familar in Qt (C++ and Python) 
 - 🚀 RHCSA, CCST Cybersecurity, MTA 98-366 and AZ-900 Certified
 - 🌱 I’m currently learning Java. Looking forward to learn flutter. 
-- 💞️ I’m looking to collaborate on projects on Linux 
+- 💞️ I’m looking to collaborate on projects deployed on Linux
 - 📫 Reach me on penguin@dawn.org.in
 - 🌐 Maintainer of [DAWN](dawn.org.in)
 
