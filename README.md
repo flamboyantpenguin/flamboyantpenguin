@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java. Looking forward to learn flutter. 
 - 💞️ I’m looking to collaborate on projects deployed on Linux
 - 📫 Reach me on penguin@dawn.org.in
-- 🌐 Maintainer of [DAWN](dawn.org.in)
+- 🌐 Maintainer of [DAWN](https://dawn.org.in)
 
 <!---
 flamboyantpenguin/flamboyantpenguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
